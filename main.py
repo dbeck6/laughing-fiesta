@@ -38,6 +38,9 @@ def main():
     window.bind('<Button-1>', handle_click)
     window.mainloop()
     
+class MainWindow():
+    def __init__():
+        self.
 
 if __name__ == '__main__':
     main()
